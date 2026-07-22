@@ -20,7 +20,7 @@ You can install this extension directly from this GitHub repository using pyRevi
 1. Open Revit and navigate to the `pyRevit` tab on the ribbon.
 2. Click the `pyRevit` drop-down menu (small triangle icon next to "pyRevit") and select `Extensions`.
 3. In the Extension Manager window, paste this repository's Git URL into the GIT URL field:
-   `https://github.com/burnished-edge/pyRevit-Plumbing-Calculator.git`
+   `https://github.com/burnished-edge/pyRevit-SpecText.git`
 4. Provide a name for the tool if prompted, then click `Add and install`. 
 5. Once the installation completes, close the Extension Manager and click `Reload` in the pyRevit ribbon menu. The new ribbon button panel will generate on your screen.
 
@@ -44,7 +44,4 @@ You can install this extension directly from this GitHub repository using pyRevi
 
 Because the extension is linked directly to GitHub via pyRevit, applying future updates is simple. Whenever a new version or bug fix is pushed to this repository:
 
-1. Open the `pyRevit Extension Manager`.
-2. Locate the Plumbing Calculator in your installed list.
-3. Click `Update`. pyRevit will pull the latest source code from GitHub and apply the changes. 
-4. Reload pyRevit to see the updates take effect.
+1. Click the `pyRevit` drop-down menu (small triangle icon next to "pyRevit") and select `Update`. pyRevit will pull the latest source code from GitHub and apply the changes.
