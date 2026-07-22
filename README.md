@@ -34,7 +34,7 @@ You can install this extension directly from this GitHub repository using pyRevi
 4. Click `Format & Place`. You will be prompted for an insertion point to place the text box. You may need to nudge the width of the text box as the characters per line parameter might still cause whole words to wrap unintentionally.
 5. Break up this text column as needed -- you'll need to copy and paste the text column in Revit as Revit does not support multi-column text.
 
-> ** Note**: The text generated from this tool should be treated as disposable. There is no text wrapping -- every line is trated separately so the indents from the CSI masterspec formatting is preserved. If updates are needed, make the updates to the raw text and then paste it into the tool to generate a new text box..
+> ** Note**: The text generated from this tool should be treated as disposable. There is no text wrapping -- every line is formed separately so the indents from the CSI masterspec formatting is preserved. If updates are needed, make the updates to the raw text and then paste it into the tool to generate a new text box..
 
 ![SpecText UI](docs/images/spectextui.png)
 
